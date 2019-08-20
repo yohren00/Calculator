@@ -6,3 +6,6 @@
 
 
 PS.目前用GridBagLayout排版方式無法排出想要的格式，希望最終可以用GridBagLayout排版式呈獻
+
+
+![image](https://github.com/yohren00/Stray-animal-Adoption/blob/master/animal.gif)
